@@ -1,0 +1,6 @@
+#string parameters
+APP_ID = ''
+TOKEN = ''
+MY_ID = ''
+FRIEND_ID = ''
+WORDS_COUNT = 20
